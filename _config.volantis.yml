@@ -11,10 +11,6 @@ navbar:
       url: /v6/getting-started/
       target: _self
 
-    - name: 示例
-      icon: fa-duotone fa-play-circle faa-tada
-      url: /examples/
-
     - name: 帮助
       icon: fa-duotone fa-question-circle faa-tada
       url: /faqs/
